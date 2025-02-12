@@ -1,4 +1,4 @@
-
+package Basics1;
 import Basicsref.ClassDeclarationInAnotherFile;
 
 public class Methodsinjava {
